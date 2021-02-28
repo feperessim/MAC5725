@@ -1,0 +1,3 @@
+Na imagem gerada é possível observar que palavras semanticamente semelhantes se encontram próximas na projeção. No entanto, como sabemos
+o word2vec consegue capturar informações do contexto em que as palavras aparecem, isso pode ser observado ao se verificar que na imagem
+as palavras 'televisão', 'ventilador' e 'computador' estão próximas umas da outras.
